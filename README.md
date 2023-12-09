@@ -36,10 +36,6 @@ This video tutorial walks you through the process of building a dynamic coffee s
 7. **Accessibility:**
    - Optimize for users with smaller screens by showing horizontal and vertical scroll bars.
 
-## Getting Started
-
-Follow the tutorial step by step to recreate the interactive coffee sales dashboard in Excel. The provided content includes code snippets, design tips, and resource links.
-
 ## How to Use
 
 1. Clone the repository to your local machine.
