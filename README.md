@@ -4,7 +4,7 @@ Welcome to the repository for the interactive coffee sales dashboard tutorial in
 
 ## Project Overview
 
-This video tutorial walks you through the process of building a dynamic coffee sales dashboard with key features:
+This Project walks you through the process of building a dynamic coffee sales dashboard with key features:
 
 - 📈 Line chart for total sales over time
 - 🌍 Bar chart for sales by country
